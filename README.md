@@ -1,2 +1,3 @@
 # hello-world
-bleh, first repo tuto cause I'm bored
+bleh, first bored: new project
+bleh, second bored: edit
